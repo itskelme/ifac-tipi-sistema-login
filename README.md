@@ -13,3 +13,7 @@ Cadastro e login de usuários em PHP com sessão e MySQL. Os forks [Complete-Log
 ```bash
 php -S localhost:8000
 ```
+
+## Licença
+
+[CC BY-NC 4.0](LICENSE): uso pessoal e modificação permitidos com atribuição; uso comercial proibido.
